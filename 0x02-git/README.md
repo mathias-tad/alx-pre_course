@@ -1,0 +1,1 @@
+This is adirectory I created in my alx-pre_course repo
